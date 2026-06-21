@@ -8,7 +8,7 @@ window.portfolioData = {
     phoneIndia: "+91 8081262277",
     linkedin: "https://www.linkedin.com/in/mohdaqil/",
     github: "https://github.com/Aqil92",
-    portfolio: "https://aqiler.github.io/",
+    portfolio: "https://aqil4970.github.io/",
     summary:
       "Senior full stack developer with 9+ years of experience in Flutter, Android, Java, Kotlin, and Spring Boot. Specialized in building scalable, secure, high-performance enterprise applications for Saudi Aramco, ERP platforms, finance products, procurement tools, ecommerce apps, and survey systems."
   },
